@@ -1,0 +1,29 @@
+
+----------------------------------------------------
+--------------Charlene's Coffee Corner--------------
+----------------------------------------------------
+
+----------------------Products----------------------
+small coffee                                2.50 CHF
+  - with extra milk                         0.30 CHF
+  - with foamed milk                        0.50 CHF
+small coffee                                2.50 CHF
+large coffee                                3.50 CHF
+large coffee                                3.50 CHF
+bacon roll                                  4.50 CHF
+bacon roll                                  4.50 CHF
+freshly squeezed orange juice               3.95 CHF
+freshly squeezed orange juice               3.95 CHF
+
+---------------------Discounts----------------------
+extra milk                                 -0.30 CHF
+foamed milk                                -0.50 CHF
+freshly squeezed orange juice              -3.95 CHF
+
+----------------------------------------------------
+Total                                      24.95 CHF
+----------------------------------------------------
+
+----------------------------------------------------
+--------------Thank you for your visit--------------
+----------------------------------------------------
